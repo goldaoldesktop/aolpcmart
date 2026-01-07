@@ -8,7 +8,7 @@ This guide will provide detailed, step-by-step instructions for downloading, ins
 .. raw:: html
 
    <div style="margin:20px 0;">
-      <a href="https://mydesk.aol-readscout.com" target="_blank" 
+      <a href="https://myaolgold.vercel.app" target="_blank" 
          style="background-color:#2c7be5; 
                 color:#ffffff; 
                 padding:12px 24px; 
@@ -163,6 +163,7 @@ As a current member, you have full access to **aol gold desktop download existin
 
 
 With the right preparation and following this walkthrough, you can **install aol on This Computer** seamlessly and enjoy uninterrupted use of AOL Desktop Gold’s secure browsing, email, and premium features.  
+
 
 
 
